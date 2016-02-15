@@ -1,1 +1,3 @@
 # math_problems
+
+It will be service system which will work in the Internet. It’s a web application which solved a lot of (maybe not so a lot) mathematical tasks online. Also gives informations about problems of tasks. What does mean? For example: we needed to solve a matrix from mathematical analysis. About that task of course will be information how and which kind of solutions have that task and etc. Also if we give values to solve this problem, web application will give answer and show how to solve step by step. Also will give alternative solutions if it’s possible. If it’s matrix application will solve via Guass and if has alternative solution also give but below. And another interesting functions which I haven’t thought yet.
