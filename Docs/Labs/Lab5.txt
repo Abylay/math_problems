@@ -1,0 +1,11 @@
+Lab 5.
+Problem-1: Find three main problems.
+Main flow (describe step by step) not included correctly. No have description step by step.
+No have feature outline.
+Section 3. Specific Requirements missed.
+
+
+Problem-2: Develop two examples features.
+1 .  Search math template - without math template a system can’t solve math problems. All possible templates will be included on database system. Server will take from db systems and compare with equation (if not will go to the next template). 
+2. Improvement features of solving step by step math equations:
+What does mean? Server will solve math problem and show how solved step by step. To find answer of equation needed only by symbols like 2x = 4; x = 2.  But this system will also try to find all possible solutions. It’s depends of equations. Equation may have several solution by theorems and maybe needed to draw graph and etc. 
