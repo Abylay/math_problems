@@ -1,0 +1,8 @@
+Lab 6 
+Requirements
+a) Unambiguous
+b) 3.2.1.4 Examinations 
+3.2.1.4.4 (M) The SDU Timetabling shall able user to press on “Apply” button in order to see examinations timetable that he/she entered in previous(3.2.1.3.3) 3.2.1.4.5 (M) The SDU Timetabling shall display such fields like login and password and “Apply” button in order to get personal examinations timetable 
+3.2.1.4.6 (M) The SDU Timetabling shall allow user to press on “Apply”* button, after pressing on it it will return him/her personal examinations timetable in case all data(login,password) was correctly entered *- lets call it second “Apply” button that will return personal examinations timetable 
+c) After opening or clicking the part of examinations a button «Apply»  do a lot functions. First «Apply» show examination timetable(like which kind of courses or exams we have), second get personal examination timetable,  third return anybody examination timetable in case all data. «Apply» work with examination timetable but not clear what do (show, get or return information).
+d) Boranbayev Abylay
